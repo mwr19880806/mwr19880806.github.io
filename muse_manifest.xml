@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiranma.me" resolutions="1x,2x" timestamp="1508906644792">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiranma.me" resolutions="1x,2x" timestamp="1508906930207">
   <folder name="assets">
     <file name="weiran_ma_resume_jul2017.pdf" crc="3966426215" seo="true" mt="1508902758000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4294144586" ref="index"/>
+    <file name="index.css" crc="422982351" ref="index"/>
     <file name="iefonts_index.css" crc="429544571" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -46,5 +46,5 @@
     </file>
     <file name="weiran-s-homepage-favicon.ico" crc="220059664" ref="index"/>
   </folder>
-  <file name="index.html" crc="239925738" seo="true" mt="1508906521260" redirect="true"/>
+  <file name="index.html" crc="4071955115" seo="true" mt="1508906880084" redirect="true"/>
 </manifest>
