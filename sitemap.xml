@@ -33,4 +33,10 @@
       <image:loc>http://weiranma.me/images/cutmypic-crop-u192_2x.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://weiranma.me/assets/weiran_ma_resume_jul2017.pdf</loc>
+    <lastmod>2017-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
