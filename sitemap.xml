@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://weiranma.me/index.html</loc>
-    <lastmod>2017-10-25</lastmod>
+    <lastmod>2017-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,9 +16,6 @@
     </image:image>
     <image:image>
       <image:loc>http://weiranma.me/images/101021_email_512x512.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://weiranma.me/images/signature_ma_blk_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://weiranma.me/images/linkedin-256_2x.png</image:loc>
